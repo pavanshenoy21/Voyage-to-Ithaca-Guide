@@ -19,6 +19,25 @@ For Voyage to Ithaca, every flag looks like this:
 ```
 rvcectf{this_is_an_example_flag}
 ```
+# 📜 Rules and Regulations
+ 
+**1. 🤝 General Conduct**
+* **Respect all participants.** Harassment or malicious behavior is prohibited. Treat everyone with respect.
+* **Fair play.** Play honestly. Exploiting platform vulnerabilities for an advantage leads to disqualification.
+**2. 🧠 Challenge Solving**
+* **Own work only.** Solve challenges with your own team. Copying other teams' solutions will result in disqualification.
+* **Tools and AI are allowed.** You can use any tools, including AI assistants. But automated flag guessing, brute-forcing the platform, or scraping flags is not allowed.
+**3. 💬 Communication and Collaboration**
+* **No flag sharing.** Sharing flags or solutions publicly, or with other teams, leads to direct disqualification.
+* **Cross-teaming is not allowed.** The organizing committee reserves the right to review the communications of top-ranking teams to prevent flag sharing.
+* **In case of disqualification.** The organizing committee's decision is final and based on suitable evidence.
+**4. 🚩 Flag Submission**
+* **Flag format.** Flags must be submitted as `rvcectf{...}`. Case sensitivity matters.
+* **Limited attempts.** Don't spam the platform with random guesses. Think before you submit.
+**5. 🚫 Attacking Systems**
+* **No attacks on the platform.** Any attack on or disruption of the CTF platform (such as DoS) will result in disqualification.
+* **Stay in scope.** Only attack what a challenge explicitly gives you. Attacking external websites or systems not meant for the event will lead to disqualification.
+---
 
 A few things to remember:
 
